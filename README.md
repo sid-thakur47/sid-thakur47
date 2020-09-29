@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Automation in c#
-- 🌱 I’m currently learning Appium
+- 🌱 I’m currently learning Azure CI/CD
 - 💬 Ask me about java, c# and automation
-- 📫 How to reach me: Instagram id- sid_thakur47
+- 📫 How to reach me: Instagram id- sid_thakur5081
